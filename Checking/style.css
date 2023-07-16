@@ -1,0 +1,21 @@
+.box{
+    height: 300px;
+    width: 600px;
+    border: 2px solid black;
+    margin: 30px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: lightblue;
+}
+
+.img1 img{
+    width: 5rem;
+    border: 1px solid black;
+}
+
+.img2 img{
+    width: 5rem;
+    border: 1px solid black;
+}
+
